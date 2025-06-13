@@ -19,7 +19,7 @@
     <Button text="যোগ করুন" onAction="#addDish" layoutX="400" layoutY="30" />
     <Button text="আপডেট করুন" onAction="#updateDish" layoutX="460" layoutY="30" />
     <Button text="মুছে ফেলুন" onAction="#deleteDish" layoutX="520" layoutY="30" />
-    <Button text="স্ক্রিনে ফিরে যান" onAction="#clearFields" layoutX="580" layoutY="30" />
+    <Button text="স্ক্রিনে দেখুন" onAction="#clearFields" layoutX="580" layoutY="30" />
 
 </AnchorPane>
 
